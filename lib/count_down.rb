@@ -2,14 +2,13 @@
 
 counter = 10 
 
-while counter >= 1 do 
+while counter > 0 do 
 
   puts counter 
  
   counter -= 1
   
   if counter == 1
-    puts counter 
     puts "Happy New Year!"
   end 
   
