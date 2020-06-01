@@ -8,11 +8,7 @@ while counter > 0 do
  
   counter -= 1
   
-  if counter == 1
-    puts "Happy New Year!"
-  end 
-  
 end 
 
-    
+puts "Happy New Year!"
   
